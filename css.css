@@ -1,0 +1,36 @@
+h1 {
+	color: white;
+	margin: 3;
+	font-size:  40px;
+	font-family: fantasy;
+	text-align: center;
+	font-family: cursive;
+}
+td {
+	text-align: left;
+	font-family: cursive;
+}
+p {
+	color: white;
+	margin: 3;
+	text-align: center;
+	font-family: cursive;
+}
+h2 {
+	color: white;
+	margin: 3;
+	text-align: center;
+	font-family: cursive;
+}
+ul {
+	color: white;
+	margin: 3;
+	text-align: center;
+	font-family: cursive;
+}
+.movies {
+	color: white;
+	text-align: right;
+	font-size: 50px;
+	font-family; cursive;
+}
